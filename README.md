@@ -28,8 +28,7 @@ Execution of this project is as easy as opening the index.html file in an intern
 
 ### Roadmap of Future Improvements
 
-It is my hope that I can revisit this project to incorporate new technologies and styles as I progress in the MIT program. Please check back frequently as I anticipate
-making this project better.
+It is my hope that I can revisit this project to incorporate new technologies and styles as I progress in the MIT program. Please check back frequently as I anticipate making this project better.
 
 ## Authors
 
